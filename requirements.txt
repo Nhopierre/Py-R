@@ -1,1 +1,1 @@
-matplotlib==0.*
+matplotlib==3.*
